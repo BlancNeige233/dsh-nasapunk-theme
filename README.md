@@ -1,5 +1,7 @@
 # nasapunk-theme
 
+**English** | [简体中文](README.zh-CN.md)
+
 A NASA-punk / Starfield-flavoured visual theme for the DeepSeek Harness web client.
 
 Warm paper and ink hairlines in light mode, instrument blue on graphite in dark mode.
