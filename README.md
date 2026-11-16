@@ -6,7 +6,9 @@ Warm paper and ink hairlines in light mode, instrument blue on graphite in dark 
 It is an **override layer**, not a registered theme: it follows your Appearance setting,
 never hijacks the preference, and uninstalling restores the stock look instantly.
 
-![palette candidates](dark-accent-candidates.png)
+## Screenshots
+
+Light and dark mode captures live in [`docs/screenshots/`](docs/screenshots/).
 
 ## What it changes
 
