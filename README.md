@@ -8,7 +8,9 @@ never hijacks the preference, and uninstalling restores the stock look instantly
 
 ## Screenshots
 
-Light and dark mode captures live in [`docs/screenshots/`](docs/screenshots/).
+| Light — paper and sealing-wax red | Dark — graphite and instrument blue |
+| --- | --- |
+| ![light mode](docs/screenshots/light.png) | ![dark mode](docs/screenshots/dark.png) |
 
 ## What it changes
 
