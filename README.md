@@ -8,9 +8,10 @@ never hijacks the preference, and uninstalling restores the stock look instantly
 
 ## Screenshots
 
-| Light — paper and sealing-wax red | Dark — graphite and instrument blue |
-| --- | --- |
-| ![light mode](docs/screenshots/light.png) | ![dark mode](docs/screenshots/dark.png) |
+| | Light — paper and sealing-wax red | Dark — graphite and instrument blue |
+| --- | --- | --- |
+| 中文 | ![light mode, Chinese](docs/screenshots/light.png) | ![dark mode, Chinese](docs/screenshots/dark.png) |
+| English | ![light mode, English](docs/screenshots/light-en.png) | ![dark mode, English](docs/screenshots/dark-en.png) |
 
 ## What it changes
 
