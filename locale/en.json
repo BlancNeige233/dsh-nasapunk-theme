@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "NASA-punk paper theme",
+    "description": "Restyles the web interface after NASA-punk: warm paper surfaces and ink hairlines in light mode, instrument graphite and signal amber in dark mode. Follows the Appearance setting.",
+    "detail": "docs/DETAIL.md"
+  }
+}
